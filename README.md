@@ -1,6 +1,6 @@
 # Translator
 
-A Free Translator Flutter based app with medium accuracy due to translating for free based on Translator Flutter Package.
+A Free Translator Flutter based app with medium accuracy due to translating for free, based on Translator Flutter Package.
 
 ## General Info
 
